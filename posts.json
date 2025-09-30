@@ -6,15 +6,15 @@
         "content": "This is my first post."
     },
     {
-        "id": 2,
-        "author": "Jane Doe",
-        "title": "Second Post",
-        "content": "This is another post."
-    },
-    {
         "id": 3,
         "author": "Dirk Fischer",
         "title": "Fantastic",
         "content": "My code works beautiful an can be updated, now!"
+    },
+    {
+        "id": 4,
+        "author": "Author",
+        "title": "Title",
+        "content": "Contend"
     }
 ]
